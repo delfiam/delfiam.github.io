@@ -33,13 +33,14 @@ body {
 
 .containerblob {
 	background: #CADAE2;
-	min-height: 100vh;
+	min-height: 80vh;
 	display: flex;
 	flex-direction: row;
 	align-items: center;
 	justify-content: center;
 	overflow: hidden;
 	position: relative;
+    border-radius: 15%;
 }
 
 .shape-blob {
